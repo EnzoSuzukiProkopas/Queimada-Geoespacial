@@ -116,4 +116,6 @@ Os municípios que não apresentam intersecção recebem área igual a zero.
 
 ## Licença
 
-Defina a licença que será aplicada ao projeto antes da distribuição pública, por exemplo MIT, Apache-2.0 ou outra licença compatível. Os dados utilizados permanecem sujeitos às condições de uso das instituições fornecedoras.
+Enzo Suzuki
+
+Cauã Isaque

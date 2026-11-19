@@ -1,0 +1,54 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pyc
+
+# Distribuição e empacotamento
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Testes e cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+
+# Ambientes e configurações locais
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+
+# Arquivos temporários do sistema operacional
+Thumbs.db
+.DS_Store
+*.tmp
+*.bak
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Downloads e arquivos geoespaciais temporários
+*.zip
+*.gpkg-shm
+*.gpkg-wal
+*.cpg
+
+# Resultados gerados pela aplicação
+*.html
+*.csv
+queimadas_*
